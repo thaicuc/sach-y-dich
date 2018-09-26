@@ -49,3 +49,5 @@ Lại bậc thứ nữa, được gọi là Hiền Nhân, bắt chước sự v�
 mặt trăng mặt trời, nương theo lẽ nghịch thuận của Âm Dương, hòa với sự thay đổi
 của bốn mùa, siêng năng tu Đạo theo người thời Thượng Cổ. Như thế cũng có thể
 sống lâu mãi mãi.
+
+[Chương 2: Tứ Khí Điều Thần Luận &rarr;](https://github.com/thaicuc/sach-y-dich/blob/master/contents/02-tu-khi-dieu-than-luan.md)
