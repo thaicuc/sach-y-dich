@@ -29,7 +29,8 @@ tranh giành nhau, do đó 9 khiếu không thông. Hai khí ấy không điều
 Xuân mà không có Thu, có Đông mà không có Hạ. Âm bình Dương bí tinh thần sẽ trị,
 Âm Dương ly biệt tinh khí sẽ suy.
 
-Âm Tinh sinh ra, gốc tự 5 vị; Thần của 5 tàng, bị thương bởi 5 vị. Vì vậy nên:
+Âm Tinh sinh ra, gốc tự 5 vị; Thần của 5 tàng, bị thương bởi 5 vị:
+
 - Nếu ăn quá chua, Can khí bị đẫm ướt, Tỳ khí sẽ bị tuyệt.
 - Nếu ăn quá mặn, đại cốt nhọc mệt, cơ nhục bị sút, Tâm khí bị chèn nén.
 - Nếu ăn quá ngọt, Tâm khí thở gấp và đầy, da sạm đen, Thận khí không yên.
