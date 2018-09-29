@@ -1,6 +1,6 @@
 # Sách Y Dịch
 
-> Nội dung đăng tải ở đây đã được lược giản.  
+> Nội dung đăng tải tại đây đã được lược giản.  
 > Bạn có thể tìm đọc bản đầy đủ sách "Hoàng Đế Nội Kinh - Tố Vấn" của cụ Nguyễn
 > Tử Siêu.
 
