@@ -36,3 +36,5 @@ Xuân mà không có Thu, có Đông mà không có Hạ. Âm bình Dương bí 
 - Nếu ăn quá ngọt, Tâm khí thở gấp và đầy, da sạm đen, Thận khí không yên.
 - Nếu ăn quá đắng, Tỳ khí không thấm nhuần, Vị khí sẽ quá hậu.
 - Nếu ăn quá cay, gân mạch rã rời, tinh thần sẽ bị hại.
+
+[Chương 4: Kim Quỹ Châm Ngôn Luận &rarr;](https://github.com/thaicuc/sach-y-dich/blob/master/contents/04-kim-quy-cham-ngon-luan.md)
