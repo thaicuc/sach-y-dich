@@ -2,10 +2,10 @@
 
 Trong Âm có Âm, trong Dương có Dương:
 
+- Từ gà gáy (nửa đêm) đến sáng sớm là Âm ở trong Dương
 - Từ sáng sớm đến đúng trưa là Dương ở trong Dương
 - Từ đúng trưa đến hoàng hôn là Dương ở trong Âm
 - Từ chập tối đến gà gáy (nửa đêm) là Âm ở trong Âm
-- Từ gà gáy (nửa đêm) đến sáng sớm là Dương ở trong Âm
 
 Tấm thân của con người cũng ứng theo như vậy. Nói về Âm Dương thuộc con người
 thì ngoài là Dương, trong là Âm. Nói riêng về tấm thân con người thì sau lưng là
@@ -16,12 +16,12 @@ Dương trước bụng là Âm:
 - Phúc (bụng) thuộc Âm, mà Âm ở trong Âm tức là Thận
 - Dương ở trong Âm lại là Can
 
-Nói về Âm Dương trong Tàng Phủ con người thì Tàng là Âm, Phủ là Dương:
+Nói về Âm Dương trong Tàng Phủ con người thì:
 
-- 5 Tàng là: Can, Tâm, Tỳ, Phế, Thận
-- 6 Phủ là: Đởm, Vị, Đại Trường, Tiểu Trường, Bàng Quang, Tam Tiêu
+- 5 Tàng, Can, Tâm, Tỳ, Phế, Thận, thuộc Âm.
+- 6 Phủ, Đởm, Vị, Đại Trường, Tiểu Trường, Bàng Quang, Tam Tiêu, thuộc Dương.
 
-Trị bệnh cần phải nắm được cái "sở thắng" của bốn mùa:
+Trị bệnh cần phải nắm được cái "sở thắng" của các mùa:
 
 - Xuân thắng Trường Hạ
 - Trường Hạ thắng Đông
@@ -48,3 +48,5 @@ Thương, thường sinh bệnh tại Bì Mao.
 Bắc phong sắc Đen, sinh về mùa Đông, thông vào với Thận, tàng tinh ở Thận, khai
 khiếu ở Nhị Âm (tiền âm và hậu âm), về ngũ hành là Thủy, về vị là Hàm (mặn), về
 mùi là Húc Mục, về âm là Vũ, thường sinh bệnh tại Xương.
+
+[Chương 5: Âm Dương Ứng Tượng Đại Luận &rarr;](https://github.com/thaicuc/sach-y-dich/blob/master/contents/05-am-duong-ung-tuong-dai-luan.md)

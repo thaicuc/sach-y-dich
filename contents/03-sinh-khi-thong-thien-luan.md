@@ -14,7 +14,7 @@ mình thì "chí ý" tự an tĩnh, mà cái Dương khí bao bọc quanh mình 
 bên ngoài sẽ tan rã, 9 khiếu bị bế nghẽn, cơ phu bị vít lấp. Đó là tự mình gây
 nên bệnh.
 
-Dương khí vốn gốc ở Chí Âm, bên ngoài gặp phải khí hàn, tức khì Dương khí từ bên
+Dương khí vốn gốc ở Chí Âm, bên ngoài gặp phải khí hàn, tức thì Dương khí từ bên
 trong ứng ra để cản lại. Sự ứng ra ấy nhanh chóng như xoay cối cửa nên gọi là
 "vận khu". Dương khí, cái chất tinh của nó thì nuôi thần, cái tính "nhu" của nó
 thì nuôi gân. Nếu sự "khai hạp" của nó bị vướng mắc, sẽ bị hàn tà phạm vào mà

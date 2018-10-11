@@ -30,11 +30,11 @@ Can khí sẽ uất mà biến bệnh.
 Làm trái khí mùa Hạ thì Thái Dương không thi triển được công năng trưởng dưỡng.
 Tâm khí sẽ bị rỗng không mà sinh bệnh.
 
-Làm trái khí mùa Thu thì Thái Âm không thi triển được công năng thâu liễm. Phế
+Làm trái khí mùa Thu thì Thiếu Âm không thi triển được công năng thâu liễm. Phế
 khí sẽ bị đầy trướng mà sinh bệnh.
 
-Làm trái khí mùa Đông thì Thiếu Âm không thi triển được công năng thâu tàng.
-Thận khí bị chìm lấp mà sinh bệnh.
+Làm trái khí mùa Đông thì Thái Âm không thi triển được công năng thâu tàng. Thận
+khí bị chìm lấp mà sinh bệnh.
 
 Thiên khí vốn trong sạch, sáng sủa, "tàng đức" vận động không ngừng, nên không
 cần phải giáng xuống mà cũng như giáng xuống. Nếu thiên khí không "tàng" mà lại
