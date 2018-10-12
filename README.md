@@ -8,4 +8,5 @@
 [Chương 2: Tứ Khí Điều Thần Luận](https://github.com/thaicuc/sach-y-dich/blob/master/contents/02-tu-khi-dieu-than-luan.md)  
 [Chương 3: Sinh Khí Thông Thiên Luận](https://github.com/thaicuc/sach-y-dich/blob/master/contents/03-sinh-khi-thong-thien-luan.md)  
 [Chương 4: Kim Quỹ Châm Ngôn Luận](https://github.com/thaicuc/sach-y-dich/blob/master/contents/04-kim-quy-cham-ngon-luan.md)  
-[Chương 5: Âm Dương Ứng Tượng Đại Luận](https://github.com/thaicuc/sach-y-dich/blob/master/contents/05-am-duong-ung-tuong-dai-luan.md)
+[Chương 5: Âm Dương Ứng Tượng Đại Luận](https://github.com/thaicuc/sach-y-dich/blob/master/contents/05-am-duong-ung-tuong-dai-luan.md)  
+[Chương 6: Âm Dương Ly Hợp Luận](https://github.com/thaicuc/sach-y-dich/blob/master/contents/06-am-duong-ly-hop-luan.md)

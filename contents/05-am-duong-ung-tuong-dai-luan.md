@@ -50,3 +50,5 @@ thần". Nếu không tham xét chỗ dị biệt mà chỉ quý cái đồng nh
 tham trị mà chỉ nên làm cái việc "vô vi", vui cái yên "điềm đạm", thuận dục
 khoái chí ở trong cái phạm vi "hư vô". Như vậy mới có thể trung dung cùng với
 trời đất, chìm nổi cùng với vạn vật.
+
+[Chương 6: Âm Dương Ly Hợp Luận &rarr;](https://github.com/thaicuc/sach-y-dich/blob/master/contents/06-am-duong-ly-hop-luan.md)
