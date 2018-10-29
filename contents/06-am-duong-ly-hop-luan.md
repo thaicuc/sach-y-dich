@@ -20,3 +20,5 @@ phát khởi từ Dũng Tuyền. Ba kinh đó gọi là Nhất Âm.
 
 Âm Dương đi lại không ngừng, chất chứa sự lưu truyền của "một" cái khí như lý
 với biểu, cùng nhau thành công.
+
+[Chương 7: Âm Dương Biệt Luận &rarr;](https://github.com/thaicuc/sach-y-dich/blob/master/contents/07-am-duong-biet-luan.md)

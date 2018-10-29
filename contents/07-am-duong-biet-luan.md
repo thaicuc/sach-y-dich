@@ -34,3 +34,5 @@ Bệnh về Nhị Âm Nhất Dương, hay trướng, tâm mãn, hay thở dài.
 
 Bệnh về Tam Dương, Tam Âm gây nên chứng thiên khô, nùy dịch và tứ chi không cử
 động được.
+
+[Chương 8: Linh Lan Bĩ Điền Luận &rarr;](https://github.com/thaicuc/sach-y-dich/blob/master/contents/08-linh-lan-bi-dien-luan.md)
