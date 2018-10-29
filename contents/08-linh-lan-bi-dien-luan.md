@@ -2,7 +2,7 @@
 
 Thần minh do Tâm sinh ra.  
 Chi tiết hoàn thành bởi Phế.  
-Mưu lự tự phát bởi Can.
+Mưu lự tự phát bởi Can.  
 Sự quyết đoán thực hiện bởi Đởm.  
 Hỷ lạc sinh ra bởi Chiên trung.  
 Năm vị nhân đó mới sinh ra ở Tỳ.  
