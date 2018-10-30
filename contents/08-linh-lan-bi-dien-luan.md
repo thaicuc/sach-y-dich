@@ -5,7 +5,7 @@ Chi tiết được hoàn thành bởi Phế.
 Mưu lự tự phát là bởi Can.  
 Quyết đoán dở hay là tại Đởm.  
 Hỷ lạc có gốc tại Chiên trung.  
-Năm vị nhân đó mới sinh hóa ra tại Tỳ.  
+Năm vị mới nhân đó được sinh ra tại Tỳ.  
 Đại trường lo việc dẫn đạo mà sinh ra biến hóa.  
 Tiểu trường làm nhiệm vụ dung chứa khiến cho hóa vật thành hình.  
 Thận làm nhiệm vụ tác cường để sinh ra kỹ xảo.  
@@ -29,3 +29,5 @@ Từ nghìn suy đến vạn,
 Rồi càng suy càng lớn,  
 Cho tới thể cùng cực,  
 Thân hình mới được chính.
+
+[Chương 9: Lục Tiết Tạng Tượng Luận &rarr;](https://github.com/thaicuc/sach-y-dich/blob/master/contents/09-luc-tiet-tang-tuong-luan.md)

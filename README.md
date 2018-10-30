@@ -11,4 +11,5 @@
 [Chương 5: Âm Dương Ứng Tượng Đại Luận](https://github.com/thaicuc/sach-y-dich/blob/master/contents/05-am-duong-ung-tuong-dai-luan.md)  
 [Chương 6: Âm Dương Ly Hợp Luận](https://github.com/thaicuc/sach-y-dich/blob/master/contents/06-am-duong-ly-hop-luan.md)  
 [Chương 7: Âm Dương Biệt Luận](https://github.com/thaicuc/sach-y-dich/blob/master/contents/07-am-duong-biet-luan.md)  
-[Chương 8: Linh Lan Bĩ Điền Luận](https://github.com/thaicuc/sach-y-dich/blob/master/contents/08-linh-lan-bi-dien-luan.md)
+[Chương 8: Linh Lan Bĩ Điền Luận](https://github.com/thaicuc/sach-y-dich/blob/master/contents/08-linh-lan-bi-dien-luan.md)  
+[Chương 9: Lục Tiết Tạng Tượng Luận](https://github.com/thaicuc/sach-y-dich/blob/master/contents/09-luc-tiet-tang-tuong-luan.md)
