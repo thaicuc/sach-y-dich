@@ -25,7 +25,7 @@ Sinh ra ở Thận, muốn được như lụa bọc tía đen;
 
 Trăm mạch tìm đến mắt.  
 Trăm tủy tìm đến não.  
-Trăm gân gặp ở khớp.  
+Trăm gân hội ở khớp.  
 Khí lưu dồn tới Phế.  
 Huyết hải dồn tới Tâm.
 
