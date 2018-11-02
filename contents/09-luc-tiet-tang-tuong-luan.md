@@ -64,3 +64,5 @@ và du chuyển các vị vào hay ra. Nó tươi đẹp lên môi và xung quan
 đủ ra ở thịt. Nó là Chí Âm, thông với Thổ khí.
 
 Tổng cộng tất cả 11 Tàng, đều thủ quyết ở Đởm.
+
+[Chương 10: Ngũ Tàng Sinh Thành Thiên &rarr;](https://github.com/thaicuc/sach-y-dich/blob/master/contents/10-ngu-tang-sinh-thanh-thien.md)
