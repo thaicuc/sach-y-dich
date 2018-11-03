@@ -22,3 +22,5 @@ phế."
 Muốn cảm ứng được bệnh trước hết phải xét ở bộ phận dưới như Trường Vị, là cơ
 quan thâu nạp và bài tiết thủy cốc; Kế đến phải chẩn ở khí khẩu để đoán cái khí
 của Tàng, Phủ; Cuối cùng mới nhận xét đến ý chí và bệnh tình ra sao.
+
+[Chương 12: Dị Pháp, Phương Nghi Luận &rarr;](https://github.com/thaicuc/sach-y-dich/blob/master/contents/12-di-phap-phuong-nghi-luan.md)
