@@ -36,7 +36,7 @@ Sự thị dục của các Tàng không giống nhau,
 Nhưng mọi sự biến hóa đều có thông giao với nhau làm một.  
 Trời nuôi con người bằng 5 khí.  
 Đất nuôi con người bằng 5 vị.  
-5 khí vào mũi, chứa ở phế Tâm,  
+5 khí vào mũi, chứa ở tâm phế,  
 Khiến cho 5 sắc sáng sủa, tiếng nói rõ ràng.  
 5 vị vào miệng, chứa ở Trường Vị,  
 Vị như kho chứa, nuôi hết thảy 5 khí.  
