@@ -50,3 +50,5 @@ một chứng trạng với phụ nữ. Bệnh này gây nên bởi tứ chi có
 
 Hắc mạch hiện đến, trên kiêm mà đại, đó là vì có tích khí ở tiểu phúc với tiền
 âm, gọi là chứng thận tý. Chứng này gây nên bởi gắm gội nước lạnh mà đi nằm ngay.
+
+[Chương 11: Ngũ Tàng Biệt Luận &rarr;](https://github.com/thaicuc/sach-y-dich/blob/master/contents/11-ngu-tang-biet-luan.md)
