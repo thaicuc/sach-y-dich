@@ -22,3 +22,5 @@ ngừng trệ, rồi làm cho phế khí ấm áp... Cơ nhục và huyết mạ
 chứng thũng mãn sẽ tiêu. Tiếp đó, nên "khai quỷ môn" (làm mở chân lông, phát hãn)
 và "khiết tĩnh Phù" (thông Bàng quang, lợi tiểu tiện), tinh khí sẽ do đó mà hồi
 phục, Dương khí của 5 Tàng đều được tán bố, bệnh sẽ tự khỏi.
+
+[Chương 15: Ngọc Bản Luận Yếu Thiên &rarr;](https://github.com/thaicuc/sach-y-dich/blob/master/contents/15-ngoc-ban-luan-yeu-thien.md)
