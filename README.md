@@ -18,4 +18,5 @@
 [Chương 12: Dị Pháp, Phương Nghi Luận](https://github.com/thaicuc/sach-y-dich/blob/master/contents/12-di-phap-phuong-nghi-luan.md)  
 [Chương 13: Di Tinh Biến Khí Luận](https://github.com/thaicuc/sach-y-dich/blob/master/contents/13-di-tinh-bien-khi-luan.md)  
 [Chương 14: Thang Dịch Giao Lễ Luận](https://github.com/thaicuc/sach-y-dich/blob/master/contents/14-thang-dich-giao-le-luan.md)  
-[Chương 15: Ngọc Bản Luận Yếu Thiên](https://github.com/thaicuc/sach-y-dich/blob/master/contents/15-ngoc-ban-luan-yeu-thien.md)
+[Chương 15: Ngọc Bản Luận Yếu Thiên](https://github.com/thaicuc/sach-y-dich/blob/master/contents/15-ngoc-ban-luan-yeu-thien.md)  
+[Chương 16: Chuẩn Yếu Kinh Chung Luận](https://github.com/thaicuc/sach-y-dich/blob/master/contents/16-chuan-yeu-kinh-chung-luan.md)

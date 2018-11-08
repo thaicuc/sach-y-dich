@@ -17,3 +17,5 @@ doan, khí tuyệt thì mới chết.
 Phàm mạch biến về 5 sắc, "kinh" dù khác mà "đạo" thì chỉ có "một". "Một" đó tức
 là cái "thần" của con người. Khi "thần" ấy đã có, sẽ vận chuyển tới khắp 5 Tàng,
 không còn bị ngừng trệ.
+
+[Chương 16: Chuẩn Yếu Kinh Chung Luận &rarr;](https://github.com/thaicuc/sach-y-dich/blob/master/contents/16-chuan-yeu-kinh-chung-luan.md)
