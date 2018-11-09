@@ -44,3 +44,5 @@ Cho nên, mùa Xuân thì trị ở Tán du (các Du huyết ở đường mạc
 Mùa Hạ thì trị ở Lạc du (các huyệt của Lạc). Mùa Thu thì trị ở các thớ thịt ở bên
 trong bì phu. Mùa Đông thì trị ở các "Du khiếu" ở bên trong thớ thịt (gần tới
 xương).
+
+[Chương 17: Mạch Yếu Tinh Vi Luận &rarr;](https://github.com/thaicuc/sach-y-dich/blob/master/contents/17-mach-yeu-tinh-vi-luan.md)
