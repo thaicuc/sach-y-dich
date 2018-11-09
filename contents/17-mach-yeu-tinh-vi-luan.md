@@ -42,3 +42,5 @@ mộng thấy mình lấy của người ta; Can khí thịnh thì mộng thấy
 Phế khí thịnh thì mộng thấy gặp chuyện ưu sầu; Đoản trùng (sán sơ mít) nhiều thì
 mộng hội họp đông người; Trường trùng (giun, sán) nhiều thì mộng đánh nhau xây
 xát.
+
+[Chương 18: Bình Nhân Khí Tượng Luận &rarr;](https://github.com/thaicuc/sach-y-dich/blob/master/contents/18-binh-nhan-khi-tuong-luan.md)

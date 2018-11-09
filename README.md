@@ -1,8 +1,7 @@
 # Sách Y Dịch
 
 > Nội dung đăng tải tại đây đã được lược giản.  
-> Bạn có thể tìm đọc bản đầy đủ sách "Hoàng Đế Nội Kinh - Tố Vấn" của cụ Nguyễn
-> Tử Siêu.
+> Bạn có thể tìm đọc bản đầy đủ sách "Tố Vấn Nội Kinh" của cụ Nguyễn Tử Siêu.
 
 [Chương 1: Thượng Cổ Thiên Chân Luận](https://github.com/thaicuc/sach-y-dich/blob/master/contents/01-thuong-co-thien-chan-luan.md)  
 [Chương 2: Tứ Khí Điều Thần Luận](https://github.com/thaicuc/sach-y-dich/blob/master/contents/02-tu-khi-dieu-than-luan.md)  
@@ -20,4 +19,5 @@
 [Chương 14: Thang Dịch Giao Lễ Luận](https://github.com/thaicuc/sach-y-dich/blob/master/contents/14-thang-dich-giao-le-luan.md)  
 [Chương 15: Ngọc Bản Luận Yếu Thiên](https://github.com/thaicuc/sach-y-dich/blob/master/contents/15-ngoc-ban-luan-yeu-thien.md)  
 [Chương 16: Chuẩn Yếu Kinh Chung Luận](https://github.com/thaicuc/sach-y-dich/blob/master/contents/16-chuan-yeu-kinh-chung-luan.md)  
-[Chương 17: Mạch Yếu Tinh Vi Luận](https://github.com/thaicuc/sach-y-dich/blob/master/contents/17-mach-yeu-tinh-vi-luan.md)
+[Chương 17: Mạch Yếu Tinh Vi Luận](https://github.com/thaicuc/sach-y-dich/blob/master/contents/17-mach-yeu-tinh-vi-luan.md)  
+[Chương 18: Bình Nhân Khí Tượng Luận](https://github.com/thaicuc/sach-y-dich/blob/master/contents/18-binh-nhan-khi-tuong-luan.md)
