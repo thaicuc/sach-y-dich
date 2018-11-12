@@ -1,7 +1,5 @@
 # Chương 3: Sinh Khí Thông Thiên Luận
 
-**Hoàng Đế nói:**
-
 Khí trời là cái gốc tính mệnh của con người. Trời lấy 2 khí Âm - Dương để sinh
 ra muôn vật. Trong khoảng 6 cõi, 2 khí đó phân tán ra ở trên mặt đất, chia làm 9
 châu, phân tán ra ở con người, thành ra 9 khiếu. Những phần tử sinh ra cơ thể
@@ -19,8 +17,6 @@ trong ứng ra để cản lại. Sự ứng ra ấy nhanh chóng như xoay cố
 "vận khu". Dương khí, cái chất tinh của nó thì nuôi thần, cái tính "nhu" của nó
 thì nuôi gân. Nếu sự "khai hạp" của nó bị vướng mắc, sẽ bị hàn tà phạm vào mà
 sinh bệnh.
-
-**Kỳ Bá nói:**
 
 Âm chủ về tàng tinh, mà thường bồng lên để ứng với bên ngoài. Dương chủ về bảo
 vệ ở bên ngoài cho âm được bền vững kín đáo. Âm không thắng được Dương thì luồng
