@@ -1,13 +1,5 @@
 # Chương 1: Thượng Cổ Thiên Chân Luận
 
-**Hoàng Đế hỏi Thiên Sư:**
-
-Tôi nghe, người đời Thượng Cổ đều sống tới trăm tuổi mà sức khỏe không kém sút,
-đến người đời nay tuổi mới năm mươi mà sức khỏe đã kém sút. Đó là vì thời thế
-khác chăng? Hay là lỗi tại người chăng?
-
-**Kỳ Bá đáp:**
-
 Về thời Thượng Cổ, người người biết Đạo, bắt chước Âm Dương, ăn uống có mực,
 khởi cư có thường, không làm quá sức, cho nên giữ gìn được cả hình hài và tinh
 thần, sống trọn tuổi trời, linh trăm tuổi mới thác.
@@ -29,8 +21,6 @@ vật, vậy nên ai ai cũng giữ toàn được cái Đức, hóa hợp đư�
 trăm tuổi mà sức khỏe không kém sút.
 
 ***
-
-**Hoàng Đế nói:**
 
 Về thời Thượng Cổ, có bậc Chân Nhân, có thể xoay chuyển được trời đất, điều hòa
 được Âm Dương, thở hút tinh khí, giữ vững hình thần, da thịt không lúc nào thay

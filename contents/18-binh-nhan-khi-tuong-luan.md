@@ -31,3 +31,5 @@ Mạch án về mùa Đông, có Vị khí mà hơi thạch là bình. Nếu th�
 thì do bệnh ở Thận. Thạch mà lại kiêm cả câu, tới mùa Hạ sẽ phát bệnh; nếu câu
 nhiều sẽ phát bệnh ngay. Chân khí của Tàng thông xuống Thận, vì Thận tàng cái khí
 của cốt tủy.
+
+[Chương 19: Ngọc Cơ Chân Tàng Luận &rarr;](https://github.com/thaicuc/sach-y-dich/blob/master/contents/19-ngoc-co-chan-tang-luan.md)

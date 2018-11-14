@@ -20,4 +20,5 @@
 [Chương 15: Ngọc Bản Luận Yếu Thiên](https://github.com/thaicuc/sach-y-dich/blob/master/contents/15-ngoc-ban-luan-yeu-thien.md)  
 [Chương 16: Chuẩn Yếu Kinh Chung Luận](https://github.com/thaicuc/sach-y-dich/blob/master/contents/16-chuan-yeu-kinh-chung-luan.md)  
 [Chương 17: Mạch Yếu Tinh Vi Luận](https://github.com/thaicuc/sach-y-dich/blob/master/contents/17-mach-yeu-tinh-vi-luan.md)  
-[Chương 18: Bình Nhân Khí Tượng Luận](https://github.com/thaicuc/sach-y-dich/blob/master/contents/18-binh-nhan-khi-tuong-luan.md)
+[Chương 18: Bình Nhân Khí Tượng Luận](https://github.com/thaicuc/sach-y-dich/blob/master/contents/18-binh-nhan-khi-tuong-luan.md)  
+[Chương 19: Ngọc Cơ Chân Tàng Luận](https://github.com/thaicuc/sach-y-dich/blob/master/contents/19-ngoc-co-chan-tang-luan.md)
