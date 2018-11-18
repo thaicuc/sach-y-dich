@@ -1,7 +1,7 @@
 # Chương 12: Dị Pháp, Phương Nghi Luận
 
-Cùng "một" bệnh mà phép chữa không giống nhau; Lại cùng đều khỏi; Ấy là do bởi
-địa thế.
+Cùng một bệnh mà phép chữa không giống nhau; Lại cùng đều khỏi; Ấy là do bởi địa
+thế.
 
 Đông phương là khu vực mà cái khí của trời đất bắt đầu phát sinh. Nơi đó sản xuất
 cá và muối nên gần bể. Con người sinh sống ở đó hay ăn cá và ưa vị mặn. Cá ăn
