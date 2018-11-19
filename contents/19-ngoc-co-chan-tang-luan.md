@@ -28,3 +28,8 @@ Doanh. Nếu mạch khí lúc lại như vụt vào đá (đàn thạch) thì g�
 khiến người trễ nải, đường xương sống đau, thiếu khí, không muốn nói. Nếu mạch
 khí lúc đi lại chậm rãi như đếm thì gọi là bất cập, sẽ khiến người trong lòng hao
 như đói, đau xương sống, Thiếu phúc đầy, tiểu tiện đổi sắc.
+
+Tỳ mạch thuộc Thổ, nó là cô Tàng, đứng riêng 1 mình để thấm nhuần ra 4 bên. Nếu
+mạch khí lúc lại như nước chảy dồn thì gọi là thái quá, sẽ khiến tứ chi khó cử
+động. Nếu mạch khí chỉ như chim mổ, lúc có lúc ngừng thì gọi là bất cập, sẽ khiến
+cho 9 khiếu không thông.
