@@ -20,7 +20,7 @@ cấp, lúc đi thời tán, nên gọi là Phù. Nếu mạch khí lúc lại n
 hai bên hư thì gọi là thái quá, sẽ khiến lưng đau, khí nghịch, bực tức và khó
 chịu. Nếu mạch khí lúc lại như mao mà "vi" thì gọi là bất cập, sẽ phát ra chứng
 suyễn, hô hấp mệt mỏi mà ho, ở bộ phận trên đôi khi thấy có máu, có khi khí hạ
-nghịch, là rên kêu ầm ỹ.
+nghịch, kêu rên.
 
 Mạch mùa Đông (tức Thận mạch) thuộc Bắc phương (tức thuộc Thủy); Muôn vật nhờ đó
 mà "bế tàng", cho nên mạch khí lúc lại trầm mà bác (bật mạnh lên), nên gọi là
@@ -35,3 +35,5 @@ thiện của Tỳ chỉ phát hiện ra ở 4 Tàng, mà ở chính mình thì 
 khí lúc lại như nước chảy dồn thì gọi là thái quá, sẽ khiến tứ chi khó cử động.
 Nếu mạch khí chỉ như chim mổ, lúc có lúc ngừng thì gọi là bất cập, sẽ khiến cho
 9 khiếu không thông.
+
+[Chương 20: Tam Bộ, Cửu Hậu Luận &rarr;](https://github.com/thaicuc/sach-y-dich/blob/master/contents/20-tam-bo-cuu-hau-luan.md)
