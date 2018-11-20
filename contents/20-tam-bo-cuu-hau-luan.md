@@ -21,3 +21,5 @@ Về Người thuộc túc Thái Âm, để hậu cái khí của Tỳ Vị.
 Về phép "hậu" trước phải nhận xem người gầy hay béo, để xét xem khí hư hay thực.
 Thực thì tả, hư thì bổ. Phải từ bỏ tà khí trong huyết mạch rồi mới có thể điều
 hòa. Không cứ gì bệnh khó hay dễ, cốt làm cho khí được quân bình.
+
+[Chương 21: Kinh Mạch Biệt Luận &rarr;](https://github.com/thaicuc/sach-y-dich/blob/master/contents/21-kinh-mach-biet-luan.md)
