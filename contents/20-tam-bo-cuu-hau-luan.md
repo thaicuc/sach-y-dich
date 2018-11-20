@@ -17,3 +17,7 @@ Về Người thuộc thủ Thiếu Âm, để hậu cái khí của Tâm.
 Hạ bộ về Trời thuộc túc Quyết Âm, để hậu cái khí của Can;  
 Về Đất thuộc túc Thiếu Âm, để hậu cái khí của Thận;  
 Về Người thuộc túc Thái Âm, để hậu cái khí của Tỳ Vị.
+
+Về phép "hậu" trước phải nhận xem người gầy hay béo, để xét xem khí hư hay thực.
+Thực thì tả, hư thì bổ. Phải từ bỏ tà khí trong huyết mạch rồi mới có thể điều
+hòa. Không cứ gì bệnh khó hay dễ, cốt làm cho khí được quân bình.
