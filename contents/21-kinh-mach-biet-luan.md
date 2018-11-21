@@ -33,3 +33,5 @@ Tâm đau ê ẩm, quyết khí bức bách, khiến toát mồ hôi. Nên đi�
 
 Mạch ở Thái Âm bật mạnh, phải xét ở chân Tàng; Mạch của 5 Tàng đều thiếu khí. Vị
 khí không quân bình. Nên bổ Dương tả Âm.
+
+[Chương 22: Tàng Khí Pháp Thời Luận &rarr;](https://github.com/thaicuc/sach-y-dich/blob/master/contents/22-tang-khi-phap-thoi-luan.md)
