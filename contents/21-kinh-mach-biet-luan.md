@@ -15,6 +15,8 @@ Nhờ đó mà thủy đạo được làm cho thông lợi.
 Du chuyển xuống Bàng Quang, tức thì thủy tinh tán bố 5 Kinh đều đi khắp.  
 Đó là hợp với 4 mùa, 5 Tàng, Âm Dương quỹ độ.
 
+***
+
 Khí ở Thái Dương đến 1 mình, gây nên chứng quyết, suyễn, hư, khí nghịch. Đó là do
 Âm bất túc, Dương hữu dư. Cả biểu và lý đều nên tả.
 
