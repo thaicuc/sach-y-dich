@@ -65,7 +65,9 @@ kiên có thể dùng vị Cam để bổ, vị Hàm để tả.
 
 ## Dịch lý
 
-Phàm tà khí phạm vào người, lấy cái "thắng" để cùng thêm lên; Gặp cái "bất thắng"
-thì càng nặng; Gặp cái "sở sinh" thì đứng bệnh; Gặp đúng vào cái bản vị của mình
-sẽ khỏi. Tất phải hiểu thấu cái mạch của 5 Tàng, mới có thể biết được khi nào
-bệnh nhẹ, nặng.
+Phàm tà khí phạm vào người, lấy cái "sở thắng" để cùng thêm lên; Gặp cái "sở bất
+thắng" thì càng nặng; Gặp cái "sở sinh" thì đứng bệnh; Gặp đúng vào cái bản vị
+của mình sẽ khỏi. Tất phải hiểu thấu cái mạch của 5 Tàng, mới có thể biết được
+khi nào bệnh nhẹ, nặng.
+
+[Chương 23: Tuyên Minh Ngũ Khí Thiên &rarr;](https://github.com/thaicuc/sach-y-dich/blob/master/contents/23-tuyen-minh-ngu-khi-thien.md)
