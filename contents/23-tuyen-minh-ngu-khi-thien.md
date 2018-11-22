@@ -81,3 +81,5 @@ Mắt trông quá lâu làm thương đến Huyết.
 Ngồi quá lâu làm thương đến Nhục.  
 Nằm quá lâu làm thương đến Khí.  
 Chân đứng quá lâu làm thương đến Cốt.
+
+[Chương 24: Huyết Khí Hình Chí Thiên &rarr;](https://github.com/thaicuc/sach-y-dich/blob/master/contents/24-huyet-khi-hinh-chi-thien.md)
