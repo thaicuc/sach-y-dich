@@ -26,4 +26,5 @@
 [Chương 21: Kinh Mạch Biệt Luận](https://github.com/thaicuc/sach-y-dich/blob/master/contents/21-kinh-mach-biet-luan.md)  
 [Chương 22: Tàng Khí Pháp Thời Luận](https://github.com/thaicuc/sach-y-dich/blob/master/contents/22-tang-khi-phap-thoi-luan.md)  
 [Chương 23: Tuyên Minh Ngũ Khí Thiên](https://github.com/thaicuc/sach-y-dich/blob/master/contents/23-tuyen-minh-ngu-khi-thien.md)  
-[Chương 24: Huyết Khí Hình Chí Thiên](https://github.com/thaicuc/sach-y-dich/blob/master/contents/24-huyet-khi-hinh-chi-thien.md)
+[Chương 24: Huyết Khí Hình Chí Thiên](https://github.com/thaicuc/sach-y-dich/blob/master/contents/24-huyet-khi-hinh-chi-thien.md)  
+[Chương 25: Bảo Mệnh Toàn Hình Luận](https://github.com/thaicuc/sach-y-dich/blob/master/contents/25-bao-menh-toan-hinh-luan.md)

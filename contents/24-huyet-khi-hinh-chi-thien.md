@@ -22,3 +22,5 @@ Hình vui, chí vui, bệnh đó sinh ra bởi Nhục.
 Hình khổ, chí vui, bệnh đó sinh ra bởi Cân.  
 Hình khổ, chí khổ, bệnh đó sinh ra bởi Cuống Họng.  
 Thường bị kinh khủng, kinh lạc không thông, bệnh đó sinh ra bởi Tủy.
+
+[Chương 25: Bảo Mệnh Toàn Hình Luận &rarr;](https://github.com/thaicuc/sach-y-dich/blob/master/contents/25-bao-menh-toan-hinh-luan.md)
