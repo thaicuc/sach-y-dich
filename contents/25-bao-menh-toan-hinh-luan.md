@@ -47,3 +47,5 @@ Cũng không nên vội vàng,
 Trong tàng phủ, ngoài cân mạch,  
 Phải ứng khớp với nhau,  
 Đừng chú trọng về hình.
+
+[Chương 26: Bát Chính Thần Minh Luận &rarr;](https://github.com/thaicuc/sach-y-dich/blob/master/contents/26-bat-chinh-than-minh-luan.md)
