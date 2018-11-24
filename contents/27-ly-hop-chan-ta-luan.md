@@ -21,3 +21,5 @@ Rồi lấy Đất để "hậu" Đất,
 Lấy Trời để "hậu" Trời,  
 Lấy Người để "hậu" Người,  
 Rồi điều hòa trung Phủ (Vị) để ấn định 3 bộ.
+
+[Chương 28: Thông Bình Hư Thực Luận &rarr;](https://github.com/thaicuc/sach-y-dich/blob/master/contents/28-thong-binh-hu-thuc-luan.md)

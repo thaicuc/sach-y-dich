@@ -29,4 +29,5 @@
 [Chương 24: Huyết Khí Hình Chí Thiên](https://github.com/thaicuc/sach-y-dich/blob/master/contents/24-huyet-khi-hinh-chi-thien.md)  
 [Chương 25: Bảo Mệnh Toàn Hình Luận](https://github.com/thaicuc/sach-y-dich/blob/master/contents/25-bao-menh-toan-hinh-luan.md)  
 [Chương 26: Bát Chính Thần Minh Luận](https://github.com/thaicuc/sach-y-dich/blob/master/contents/26-bat-chinh-than-minh-luan.md)  
-[Chương 27: Ly Hợp Chân Tà Luận](https://github.com/thaicuc/sach-y-dich/blob/master/contents/27-ly-hop-chan-ta-luan.md)
+[Chương 27: Ly Hợp Chân Tà Luận](https://github.com/thaicuc/sach-y-dich/blob/master/contents/27-ly-hop-chan-ta-luan.md)  
+[Chương 28: Thông Bình Hư Thực Luận](https://github.com/thaicuc/sach-y-dich/blob/master/contents/28-thong-binh-hu-thuc-luan.md)
