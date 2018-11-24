@@ -8,7 +8,7 @@ Nhưng hễ có hình thì ắt phải có lúc gặp bệnh.
 Nghĩ như muối, vì vị nó mặn, nên khí của nó thường ẩm ướt ra ngoài.  
 Dây đàn sắp đứt, ắt tiếng nó phải rè.  
 Cây đến mùa Thu, thuận theo tự nhiên mà lá nó phải úa.  
-Hễ có ở bên trong, thì ở bên ngoài tất sẽ phải thể hiện ra.
+Hễ có ở bên trong, thì tất sẽ phải thể hiện ra ở bên ngoài.
 
 Thân người được sinh ra trên Đất, còn mệnh gửi ở Trời.  
 Nếu theo đúng được 4 mùa, Trời Đất sẽ như cha mẹ.  
