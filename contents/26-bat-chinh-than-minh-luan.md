@@ -31,6 +31,9 @@ Bắt chước đời xưa, tức là bắt chước ở chân kinh.
 Sau đó lại còn phải nghiệm về sau này.  
 Biết ngày nào hàn, ôn; Nguyệt thời nào hư, thịnh.  
 Để "hậu" xem khí phù, trầm thế nào.  
-Rồi mới thi hành phép điều trị.  
+Rồi mới thi hành phép điều trị.
+
 Vậy nên nói, lương công thật thần tình.  
 Có thể trông rõ từ chốn vô hình, nghe rõ từ chốn vô thanh.
+
+[Chương 27: Ly Hợp Chân Tà Luận &rarr;](https://github.com/thaicuc/sach-y-dich/blob/master/contents/27-ly-hop-chan-ta-luan.md)
