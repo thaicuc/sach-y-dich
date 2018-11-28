@@ -67,3 +67,5 @@ do phong thấp gây nên.
 Các chứng hoàng đản, bạo thống, điên, quyết, cuồng... do khí "nghịch" đã lâu mà
 sinh ra; 5 Tàng không quân bình là do 6 Phủ vít lấp mà sinh ra; Đầu nhức, tai ù,
 chín khiếu không lợi... do Trường Vị sinh ra.
+
+[Chương 29: Thái Âm, Dương Minh Thiên &rarr;](https://github.com/thaicuc/sach-y-dich/blob/master/contents/29-thai-am-duong-minh-thien.md)
