@@ -37,4 +37,6 @@ Túc Thái Âm thuộc về Tam Âm, mạch của nó suốt từ Vị, liền s
 Minh thuộc biểu, nó là cáo bể của 5 Tàng 6 Phủ, cũng gọi là Tam Dương. Tàng và
 Phủ đều nhận kinh mạch của mình để tiếp thụ khi ở Dương Minh. Vì vậy nên, Tỳ chỉ
 nhờ lượt da vàng (mạc) liên kết với Vị, nhưng lại có thể giúp Vị dẫn hành được
-tân dịch. 
+tân dịch.
+
+[Chương 30: Dương Minh Mạch Giải Thiên &rarr;](https://github.com/thaicuc/sach-y-dich/blob/master/contents/30-duong-minh-mach-giai-thien.md)
