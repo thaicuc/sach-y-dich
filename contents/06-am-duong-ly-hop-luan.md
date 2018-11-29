@@ -11,8 +11,8 @@ tới vạn... Nhưng về cốt yếu vẫn chỉ có "một". Người hiền 
 để trị thân, nhân đó mà biết được sự ly hợp của 3 kinh Âm và 3 kinh Dương.
 
 Thái Dương thi hành nhiệm vụ khai (mở), gốc phát khởi từ Chí Âm, kết ở Mệnh Môn.
-Dương Minh thi hành nhiệm nhiệm vụ hạp (đóng), gốc phát khởi từ Lệ Đoái. Thiếu
-Dương là khu (cối cửa). Ba kinh đó gọi là Nhất Dương.
+Dương Minh thi hành nhiệm vụ hạp (đóng), gốc phát khởi từ Lệ Đoái. Thiếu Dương là
+khu (cối cửa). Ba kinh đó gọi là Nhất Dương.
 
 Thái Âm thi hành nhiệm vụ khai (mở), gốc phát khởi từ Ấn Bạch. Quyết Âm thi hành
 nhiệm vụ hạp (đóng), gốc phát khởi từ Đại Đôn. Thiếu Âm là khu (cối cửa), gốc
