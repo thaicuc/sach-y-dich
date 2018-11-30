@@ -14,3 +14,5 @@ bởi vì Tứ chi là cái kho của Dương khí, Dương khí thịnh thời 
 "thực nên mới lên được nơi cao"; Có khi do nhiệt quá ở mình nên mới cởi bỏ áo để
 chạy; Có khi nói càn chửi bậy, không kể thân sơ, không muốn ăn, muốn chạy càn
 cũng là vì Dương thịnh.
+
+[Chương 31: Nhiệt Bệnh Thiên &rarr;](https://github.com/thaicuc/sach-y-dich/blob/master/contents/31-nhiet-benh-thien.md)
