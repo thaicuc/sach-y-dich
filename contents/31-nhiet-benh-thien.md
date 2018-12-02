@@ -62,3 +62,5 @@ mãn. Ngày thứ hai, Dương Minh với Thái Âm đều mắc bệnh, thời 
 Quyết Âm đều mắc bệnh, thời có những chứng: tai điếc, nang xúc mà quyết, không
 thể nhỏ được một giọt nước vào miệng, bất tỉnh nhân sự... Tới ngày thứ sáu sẽ
 chết.
+
+[Chương 32: Trị Nhiệt Thiên &rarr;](https://github.com/thaicuc/sach-y-dich/blob/master/contents/32-tri-nhiet-thien.md)
