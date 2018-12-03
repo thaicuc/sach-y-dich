@@ -51,3 +51,5 @@ cách ở vị quản, mình nặng nề và thũng khó đi lại, vì mạch c
 chân; nguyệt thủy không xuống, vì bào mạch bị vít; bào mạch thuộc Tâm mà chằng
 vào trong bào, giờ chân khí phách lên Phế, khiến Tâm khí không thông xuống được,
 mới gây nên chứng trạng như vậy.
+
+[Chương 34: Nghịch Điều Luận Thiên &rarr;](https://github.com/thaicuc/sach-y-dich/blob/master/contents/34-nghich-dieu-luan-thien.md)
