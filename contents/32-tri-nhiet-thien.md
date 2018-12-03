@@ -56,3 +56,5 @@ mắc bệnh Nhiệt, má bên hữu đỏ trước. Thận mắc bệnh Nhiệt
 Phàm chữa bệnh Nhiệt, trước cho uống nước lạnh, rồi mới trị; lại phải cho mặc áo
 lạnh, ở nơi lạnh, toàn thân lạnh rồi mới thôi. Khi bệnh chưa phát, thấy hiện sắc
 đỏ thời trị ngay, thế gọi là "trị vị bệnh".
+
+[Chương 33: Bình Nhiệt Biệt Luận &rarr;](https://github.com/thaicuc/sach-y-dich/blob/master/contents/33-binh-nhiet-biet-luan.md)

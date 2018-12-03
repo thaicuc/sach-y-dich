@@ -34,4 +34,5 @@
 [Chương 29: Thái Âm, Dương Minh Thiên](https://github.com/thaicuc/sach-y-dich/blob/master/contents/29-thai-am-duong-minh-thien.md)  
 [Chương 30: Dương Minh Mạch Giải Thiên](https://github.com/thaicuc/sach-y-dich/blob/master/contents/30-duong-minh-mach-giai-thien.md)  
 [Chương 31: Nhiệt Bệnh Thiên](https://github.com/thaicuc/sach-y-dich/blob/master/contents/31-nhiet-benh-thien.md)  
-[Chương 32: Trị Nhiệt Thiên](https://github.com/thaicuc/sach-y-dich/blob/master/contents/32-tri-nhiet-thien.md)
+[Chương 32: Trị Nhiệt Thiên](https://github.com/thaicuc/sach-y-dich/blob/master/contents/32-tri-nhiet-thien.md)  
+[Chương 33: Bình Nhiệt Biệt Luận](https://github.com/thaicuc/sach-y-dich/blob/master/contents/33-binh-nhiet-biet-luan.md)
