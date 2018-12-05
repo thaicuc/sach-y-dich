@@ -42,3 +42,5 @@ Lạc mạch gây nên bệnh nhẹ, nên nằm dậy như thường mà hơi th
 không nằm được, hễ nằm thời suyễn, đó là do Thủy gây nên. Thủy theo với tân dịch
 mà lưu hành; Thận là Thủy Tàng, chủ về tân dịch. Giờ khách thủy phạm vào Thận,
 nên nằm thời suyễn.
+
+[Chương 35: Ngược Luận Thiên &rarr;](https://github.com/thaicuc/sach-y-dich/blob/master/contents/35-nguoc-luan-thien.md)

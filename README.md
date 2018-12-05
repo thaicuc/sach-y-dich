@@ -36,4 +36,5 @@
 [Chương 31: Nhiệt Bệnh Thiên](https://github.com/thaicuc/sach-y-dich/blob/master/contents/31-nhiet-benh-thien.md)  
 [Chương 32: Trị Nhiệt Thiên](https://github.com/thaicuc/sach-y-dich/blob/master/contents/32-tri-nhiet-thien.md)  
 [Chương 33: Bình Nhiệt Biệt Luận](https://github.com/thaicuc/sach-y-dich/blob/master/contents/33-binh-nhiet-biet-luan.md)  
-[Chương 34: Nghịch Điều Luận Thiên](https://github.com/thaicuc/sach-y-dich/blob/master/contents/34-nghich-dieu-luan-thien.md)
+[Chương 34: Nghịch Điều Luận Thiên](https://github.com/thaicuc/sach-y-dich/blob/master/contents/34-nghich-dieu-luan-thien.md)  
+[Chương 35: Ngược Luận Thiên](https://github.com/thaicuc/sach-y-dich/blob/master/contents/35-nguoc-luan-thien.md)
