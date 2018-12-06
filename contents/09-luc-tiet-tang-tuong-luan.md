@@ -33,7 +33,7 @@ Nhưng sự biến của 5 sắc thì sức mắt không thể biết được.
 Cũng từ thảo sinh ra 5 vị,  
 Nhưng sự biến của 5 vị thì thì lưỡi không thể nếm hết được.  
 Sự thị dục của các Tàng không giống nhau,  
-Nhưng mọi sự biến hóa đều có thông giao với nhau làm một.  
+Nhưng mọi sự biến hóa đều có thông giao với nhau làm "một".  
 Trời nuôi con người bằng 5 khí.  
 Đất nuôi con người bằng 5 vị.  
 5 khí vào mũi, chứa ở tâm phế,  
@@ -44,24 +44,24 @@ Khí hòa sẽ cùng sinh tân dịch, "thần" do đó sẽ sinh ra.
 
 ***
 
+Can là cái gốc của sự làm lụng khó nhọc, hồn ký túc ở đó. Nó tươi đẹp ra các móng
+tay chân và đầy đủ ở trong gân, sinh ra huyết. Nó là Thiếu Dương ở trong Dương,
+thông với khí mùa Xuân.
+
 Tâm là cái gốc của sinh mệnh con người, sự biến hóa của "thần" do đó mà sinh ra.
 Vẻ tươi đẹp hiện lên mặt và đầy đủ khắp huyết mạch. Nó là kinh Thái Dương ở trong
 Dương, thông với khí mùa Hạ.
 
 Phế là cái gốc của "khí", phách ký túc ở đó. Nó phát hiện ra ngoài lông và đầy ở
-trong bì phu. Nó là Thái Âm ở trong Dương, thông với khí mùa Thu.
+trong bì phu. Nó là Thái Âm ở trong Âm, thông với khí mùa Thu.
 
-Thận là một nơi gốc của sự bế tàng, "tinh" chứa ở nơi đó. Nó tốt đẹp lên tóc, đầy
+Thận là một nơi gốc của sự bế tàng, "tinh" lưu chứa ở đó. Nó tốt đẹp lên tóc, đầy
 đủ ở trong xương. Nó là Thiếu Âm ở trong Âm, thông với khí mùa Đông.
-
-Can là cái gốc của sự làm lụng khó nhọc, hồn ký túc ở đó. Nó tươi đẹp ra các móng
-tay chân và đầy đủ ở trong gân, sinh ra huyết khí. Nó là Thiếu Dương ở trong
-Dương, thông với khí mùa Xuân.
 
 Tỳ, Vị, Đại Trường, Tiểu Trường, Tam Tiêu, Bàng Quang... là cái gốc của kho đụn.
 Vịnh gửi ở nơi đó, gọi nó là một cơ quan như đồ dùng. Nó hóa được các chất cặn bã
-và du chuyển các vị vào hay ra. Nó tươi đẹp lên môi và xung quanh miệng. Nó đầy
-đủ ra ở thịt. Nó là Chí Âm, thông với Thổ khí.
+và du chuyển các vị vào, ra. Nó tươi đẹp lên môi và xung quanh miệng. Nó đầy đủ
+ra ở thịt. Nó là Chí Âm, thông với Thổ khí.
 
 Tổng cộng tất cả 11 Tàng, đều thủ quyết ở Đởm.
 
