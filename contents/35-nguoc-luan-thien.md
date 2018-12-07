@@ -105,3 +105,5 @@ Dương khí thịnh; Dương khí thịnh mà không suy thời sẽ thành b�
 trở vào với Âm, cho nên nhiệt mà không hàn. Nhiệt khí đó, bên trong thời Tàng ở
 Tâm, bên ngoài thời ký túc ở khoảng phận nhục, khiến bệnh nhân cơ nhục tiêu mòn,
 nên gọi là "đan ngược".
+
+[Chương 36: Trị Ngược Thiên &rarr;](https://github.com/thaicuc/sach-y-dich/blob/master/contents/36-tri-nguoc-thien.md)
