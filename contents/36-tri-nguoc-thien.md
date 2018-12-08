@@ -42,3 +42,5 @@ Dương, Thiếu Âm.
 
 Bệnh ngược phát từ Vị, khiến người hay đói mà không ăn được, ăn vào lại đầy
 nghẽn, bụng to. Trị ở Túc Thái Âm.
+
+[Chương 37: Khí Quyết Luận Thiên &rarr;](https://github.com/thaicuc/sach-y-dich/blob/master/contents/37-khi-quyet-luan-thien.md)
